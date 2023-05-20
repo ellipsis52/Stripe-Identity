@@ -1,0 +1,11 @@
+{
+  "name": "checkout-uk-bacs-debit-setup",
+  "configureDotEnv": true,
+  "integrations": [
+    {
+      "name": "main",
+      "clients": ["html"],
+      "servers": ["dotnet", "go", "java", "node", "php-slim", "php", "python", "ruby"]
+    }
+  ]
+}

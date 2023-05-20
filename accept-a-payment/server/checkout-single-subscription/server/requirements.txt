@@ -1,0 +1,4 @@
+Flask==2.2.2
+python-dotenv==0.21.0
+stripe==13.0.3
+
