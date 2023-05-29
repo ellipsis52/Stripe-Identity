@@ -7,137 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0069f3d6-087a-4d7a-aef6-d7e95587d671" name="Changes" comment="forward to next version">
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/.cli.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/.prettierignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/.prettierrc.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/.rspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/TESTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/client/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/client/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/client/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/client/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/client/return.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/client/return.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/client/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/checkout-single-subscription/.cli.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/checkout-single-subscription/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/checkout-single-subscription/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/checkout-single-subscription/.rspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/checkout-single-subscription/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/checkout-single-subscription/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/checkout-single-subscription/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/checkout-single-subscription/checkout-demo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/checkout-single-subscription/client/canceled.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/checkout-single-subscription/client/css/global.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/checkout-single-subscription/client/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/checkout-single-subscription/client/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/checkout-single-subscription/client/img/professional.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/checkout-single-subscription/client/img/starter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/checkout-single-subscription/client/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/checkout-single-subscription/client/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/checkout-single-subscription/client/success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/checkout-single-subscription/client/success.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/checkout-single-subscription/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/checkout-single-subscription/sample-seed.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/checkout-single-subscription/server/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/checkout-single-subscription/server/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/checkout-single-subscription/server/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accept-a-payment/server/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/.cli.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/.rspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/checkout-demo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/client/canceled.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/client/css/global.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/client/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/client/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/client/img/professional.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/client/img/starter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/client/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/client/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/client/success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/client/success.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/sample-seed.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/.cli.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/accept-a-payment/.cli.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/accept-a-payment/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/accept-a-payment/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/accept-a-payment/.prettierignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/accept-a-payment/.prettierrc.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/accept-a-payment/.rspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/accept-a-payment/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/accept-a-payment/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/accept-a-payment/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/accept-a-payment/TESTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/accept-a-payment/client/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/accept-a-payment/client/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/accept-a-payment/client/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/accept-a-payment/client/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/accept-a-payment/client/return.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/accept-a-payment/client/return.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/accept-a-payment/client/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/accept-a-payment/server/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/accept-a-payment/server/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/accept-a-payment/server/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/checkout-single-subscription/.cli.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/checkout-single-subscription/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/checkout-single-subscription/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/checkout-single-subscription/.rspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/checkout-single-subscription/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/checkout-single-subscription/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/checkout-single-subscription/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/checkout-single-subscription/checkout-demo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/checkout-single-subscription/client/canceled.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/checkout-single-subscription/client/css/global.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/checkout-single-subscription/client/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/checkout-single-subscription/client/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/checkout-single-subscription/client/img/professional.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/checkout-single-subscription/client/img/starter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/checkout-single-subscription/client/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/checkout-single-subscription/client/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/checkout-single-subscription/client/success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/checkout-single-subscription/client/success.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/checkout-single-subscription/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/checkout-single-subscription/sample-seed.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/checkout-single-subscription/server/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/checkout-single-subscription/server/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/checkout-single-subscription/server/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/client/canceled.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/client/css/global.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/client/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/client/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/client/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/client/locales/en.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/client/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/client/success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/client/translation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/server/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/server/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/checkout-uk-bacs-debit-setup/server/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkout-single-subscription/server/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0069f3d6-087a-4d7a-aef6-d7e95587d671" name="Changes" comment="Merge remote-tracking branch 'origin/dependabot/composer/redirect/server/php/stripe/stripe-php-tw-10.13' into Stripe.v_13.0.3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,7 +42,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="stripe.v_12.5" />
+        <entry key="$PROJECT_DIR$" value="dependabot/nuget/redirect/server/dotnet/Newtonsoft.Json-13.0.3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -180,8 +50,12 @@
     <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///DiffPreview" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.rspec" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/.sr-combo-inputs-row:last-child" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/888=4,5=N" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/:retntation" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/accept-a-payment/.env" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/spec/freshsales-redirect_server_spec.rb" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -195,16 +69,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/webtechnicom/Downloads/identity-main&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TODO_SCOPE": "All Places",
+    "last_opened_file_path": "/Users/webtechnicom/Downloads/identity-main",
+    "run.code.analysis.last.selected.profile": "aDefault"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+    ]
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.." />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -314,7 +197,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684516991720</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/dependabot/composer/redirect/server/php/stripe/stripe-php-tw-10.13' into Stripe.v_13.0.3">
+      <created>1685300016850</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685300016850</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/dependabot/composer/redirect/server/php/stripe/stripe-php-tw-10.13' into Stripe.v_13.0.3">
+      <created>1685300104443</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685300104443</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -398,6 +295,11 @@
             <list>
               <RecentGroup>
                 <option name="FILTER_VALUES">
+                  <option value="Stripe.v_13.0.3" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
                   <option value="stripe.v_12.5" />
                 </option>
               </RecentGroup>
@@ -420,6 +322,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="forward to next version" />
-    <option name="LAST_COMMIT_MESSAGE" value="forward to next version" />
+    <MESSAGE value="Bump Newtonsoft.Json from 13.0.1 to 13.0.3 in /redirect/server/dotnet&#10;&#10;Bumps [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) from 13.0.1 to 13.0.3.&#10;- [Release notes](https://github.com/JamesNK/Newtonsoft.Json/releases)&#10;- [Commits](https://github.com/JamesNK/Newtonsoft.Json/compare/13.0.1...13.0.3)&#10;&#10;---&#10;updated-dependencies:&#10;- dependency-name: Newtonsoft.Json&#10;  dependency-type: direct:production&#10;  update-type: version-update:semver-patch&#10;...&#10;&#10;Signed-off-by: dependabot[bot] &lt;support@github.com&gt;" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/dependabot/composer/redirect/server/php/stripe/stripe-php-tw-10.13' into Stripe.v_13.0.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/dependabot/composer/redirect/server/php/stripe/stripe-php-tw-10.13' into Stripe.v_13.0.3" />
   </component>
 </project>
