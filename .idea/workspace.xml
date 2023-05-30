@@ -7,7 +7,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0069f3d6-087a-4d7a-aef6-d7e95587d671" name="Changes" comment="Merge remote-tracking branch 'origin/dependabot/composer/redirect/server/php/stripe/stripe-php-tw-10.13' into Stripe.v_13.0.3">
+    <list default="true" id="0069f3d6-087a-4d7a-aef6-d7e95587d671" name="Changes" comment="Merge remote-tracking branch 'origin/dependabot/composer/redirect/server/php/stripe/stripe-php-tw-10.13' into Stripe.v_13.0.3&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/EOF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/endpoint_secret" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/event" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/except" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/from" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/import" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/payload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/payload," afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raise" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sig_header" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stripe.api_key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/try:" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/:retntation" beforeDir="false" afterPath="$PROJECT_DIR$/:retntation" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +50,7 @@
         </map>
       </branch-storage>
     </favorite-branches>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--follow-tags" />
@@ -70,20 +85,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TODO_SCOPE": "All Places",
-    "last_opened_file_path": "/Users/webtechnicom/Downloads/identity-main/Stripe-Identity",
-    "run.code.analysis.last.selected.profile": "aDefault"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/webtechnicom/Downloads/identity-main/Stripe-Identity&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/.." />
@@ -240,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685425888842</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/dependabot/composer/redirect/server/php/stripe/stripe-php-tw-10.13' into Stripe.v_13.0.3">
+      <created>1685433183526</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1685433183526</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -363,6 +385,7 @@
     <MESSAGE value="forward to next version" />
     <MESSAGE value="Bump Newtonsoft.Json from 13.0.1 to 13.0.3 in /redirect/server/dotnet&#10;&#10;Bumps [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) from 13.0.1 to 13.0.3.&#10;- [Release notes](https://github.com/JamesNK/Newtonsoft.Json/releases)&#10;- [Commits](https://github.com/JamesNK/Newtonsoft.Json/compare/13.0.1...13.0.3)&#10;&#10;---&#10;updated-dependencies:&#10;- dependency-name: Newtonsoft.Json&#10;  dependency-type: direct:production&#10;  update-type: version-update:semver-patch&#10;...&#10;&#10;Signed-off-by: dependabot[bot] &lt;support@github.com&gt;" />
     <MESSAGE value="Merge remote-tracking branch 'origin/dependabot/composer/redirect/server/php/stripe/stripe-php-tw-10.13' into Stripe.v_13.0.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/dependabot/composer/redirect/server/php/stripe/stripe-php-tw-10.13' into Stripe.v_13.0.3" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/dependabot/composer/redirect/server/php/stripe/stripe-php-tw-10.13' into Stripe.v_13.0.3&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/dependabot/composer/redirect/server/php/stripe/stripe-php-tw-10.13' into Stripe.v_13.0.3&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
 </project>
